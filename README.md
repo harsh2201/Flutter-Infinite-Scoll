@@ -1,4 +1,4 @@
-# flutter_app
+# Flutter Infinite Scroll
 
 A new Flutter application.
 
